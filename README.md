@@ -1,4 +1,4 @@
-# DOCTOLIB PROJECT
+# DOCTOLIB 
 
 L'objectif de ce projet était de réaliser une base de données à l'aide de Rails avec des modèles, des attributs et des interactions entre ces différents modèles.
 
